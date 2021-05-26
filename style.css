@@ -1,0 +1,27 @@
+body{
+    background-color: antiquewhite;
+    margin: 0 x;
+    padding: 2px;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 20px;
+    
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+img{
+ border-radius: 15px;
+ 
+
+}
